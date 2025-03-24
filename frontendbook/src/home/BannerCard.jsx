@@ -19,11 +19,11 @@ const BannerCard = () => {
         modules={[EffectCards]}
         className="mySwiper"
         >
-            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710942758i/207635354.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344986164i/11366397.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629134391i/58455183.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727361151i/212378273.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685550295i/168849326.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404632064i/759945.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388211242i/69571.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386926572i/42547.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347426330i/2719662.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677836226i/41181739.jpg" alt="" /></SwiperSlide>
         </Swiper>
     </div>
   )

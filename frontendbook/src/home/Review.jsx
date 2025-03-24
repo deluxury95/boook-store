@@ -33,7 +33,7 @@ const Review = () => {
           modules={[Pagination]} 
           className="mySwiper"
         >
-          <SwiperSlide className="shadow-2xl bg-white py-8 px-4 md:m-5 rounded-lg border">
+          <SwiperSlide className="shadow-2xl bg-green-400 py-8 px-4 md:m-5 rounded-lg border">
             <div className="space-y-6">
                 <div className="text-amber-500 flex gap-2">
                     <FaStar/>
