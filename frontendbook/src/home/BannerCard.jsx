@@ -19,11 +19,11 @@ const BannerCard = () => {
         modules={[EffectCards]}
         className="mySwiper"
         >
-            <SwiperSlide><img src="src/assets/awardbooks.png" alt="" /></SwiperSlide>
-            <SwiperSlide>Slide 2</SwiperSlide>
-            <SwiperSlide>Slide 3</SwiperSlide>
-            <SwiperSlide>Slide 4</SwiperSlide>
-            <SwiperSlide>Slide 5</SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710942758i/207635354.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344986164i/11366397.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629134391i/58455183.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727361151i/212378273.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685550295i/168849326.jpg" alt="" /></SwiperSlide>
         </Swiper>
     </div>
   )
